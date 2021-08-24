@@ -53,6 +53,7 @@ hr {
 
 .mainDetails {
 	padding: 25px 35px;
+	border-bottom: 2px solid #cf8a05;
 }
 
 #name h1 {
@@ -85,6 +86,7 @@ hr {
 	font-size: 0.9em;
 	margin-top: 2px;
 	color: #444444;
+	font-family: lato;
 }
 
 #contactDetails ul li {
@@ -101,6 +103,7 @@ hr {
 
 section {
 	padding: 20px 0 0;
+	border-top: 1px solid #dedede;
 }
 
 section:first-child {
